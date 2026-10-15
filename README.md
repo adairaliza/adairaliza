@@ -31,15 +31,12 @@
 <hr/>
 <br/>
 
-<div id="secret" align="right">
-  <small><details>
+<div id="secret" align="right" width="600px">
+  <small><details width="600px">
     <summary>If you insist, take a quick peak at my <i>secret</i> future plans...</summary>
-
-      ~ An interactive digital garden that will serve as a collection of all my websites, my life and memories, and everything that I love, in a diaristic display. It will also force you to learn about space. The initial set up for this is in progress, although general development on it shall continue forever...
-      
-      ~ A place to list, celebrate, and annotate my favorite moments in music.
-
-      ~ A privately shared social media experience for my friends to enjoy together (Y2K / Myspace inspired).
+      <p>~ An interactive digital garden serving as a collection of my websites, life and memories, and everything that I love, in a diaristic display.<br>It will also force you to learn about space.
+      <p>~ A place to list, celebrate, and annotate my favorite moments in music.</p>
+      <p>~ A privately shared social media experience for my friends to enjoy together (Y2K / Myspace inspired).</p>
   </details></small>
 </div>
 
