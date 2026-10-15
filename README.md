@@ -33,10 +33,10 @@
 
 <div id="secret" align="right" width="600px">
   <small><details width="600px">
-    <summary>If you insist, take a quick peak at my <i>secret</i> future plans...</summary>
-      <p>~ An interactive digital garden serving as a collection of my websites, life and memories, and everything that I love, in a diaristic display.<br>It will also force you to learn about space.
-      <p>~ A place to list, celebrate, and annotate my favorite moments in music.</p>
-      <p>~ A privately shared social media experience for my friends to enjoy together (Y2K / Myspace inspired).</p>
+    <summary>If you insist, take a quick peak at my <i>secret</i> future plans...</summary><br>
+      <p align="left">~ An interactive digital garden serving as a collection of my websites, life and memories, and everything that I love, in a diaristic display. It will also force you to learn about space.
+      <p align="left">~ A place to list, celebrate, and annotate my favorite moments in music.</p>
+      <p align="left">~ A privately shared social media experience for my friends to enjoy together (Y2K / Myspace inspired). Collaboratively designed to take away what makes social media suck.</p>
   </details></small>
 </div>
 
