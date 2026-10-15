@@ -3,7 +3,7 @@
   <p>Nice to meet, you! I'm <i>Adair</i>, also known as <i>Adair Aliza</i> and <i>sappy</i> <3</p>
   <p>I'm a professional software engineer with experience in developing enterprise applications across both frontend and backend services since 2022. My expertise lies in TypeScript, React, Java, Spring Boot, REST APIs, and microservice / microfrontend architecture. I'm currently part of an enterprise team that specializes in user authentication.</p>
   <p>Work aside, I am an artist first with a passion for digital and physical technologies and the human experience on the internet.</p>
-  <p>I'd love to talk with you about your latest personal projects, code related or not, and what music you've been listening to lately.</p>
+  <p>I'd love to talk with you about your latest personal projects, code related or not, and what music you've been listening to lately<3</p>
 </div>
 
 <hr/>
