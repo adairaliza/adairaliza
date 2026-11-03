@@ -11,18 +11,28 @@
     <caption><h3>🎶 What I've been listening to lately 🎶</h3></caption>
     <tbody align="center">
       <tr>
+        <td><img width="100px" src="https://upload.wikimedia.org/wikipedia/en/6/61/Underscores_Fishmonger.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"/></td>
         <td><img width="100px" src="https://upload.wikimedia.org/wikipedia/en/9/91/It%27s_Been_Awful.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"/></td>
         <td><img width="100px" src="https://upload.wikimedia.org/wikipedia/en/0/01/U_album_cover_by_Underscores.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"/></td>
-        <td><img width="100px" src="https://upload.wikimedia.org/wikipedia/en/6/61/Underscores_Fishmonger.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"/></td>
-        <td><img width="100px" src="https://f4.bcbits.com/img/a0615285787_10.jpg"/></td>
         <td><img width="100px" src="https://upload.wikimedia.org/wikipedia/en/d/dd/I_Love_My_Computer_by_Ninajirachi.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"/></td>
       </tr>
       <tr>
+        <td>fishmonger<br/><small>by underscores</small></td>
         <td>IT'S BEEN AWFUL<br/><small>by Isaiah Rashad</small></td>
         <td>U<br/><small>by underscores</small></td>
-        <td>fishmonger<br/><small>by underscores</small></td>
-        <td>ᲘᲘ<br/><small>by Cyst</small></td>
         <td>I Love My Computer<br/><small>by Ninajirachi</small></td>
+      </tr>
+      <tr>
+        <td><img width="100px" src="https://thedispatchonline.net/wp-content/uploads/2025/11/Screenshot-2025-11-06-at-10.54.11-AM-1198x1200.png"/></td>
+        <td><img width="100px" src="https://i.scdn.co/image/ab67616d00001e02267f7e5fe11fe693ad63d649"/></td>
+        <td><img width="100px" src="https://upload.wikimedia.org/wikipedia/en/2/2c/SZA_-_S.O.S.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"/></td>
+        <td><img width="100px" src="https://f4.bcbits.com/img/a0615285787_10.jpg"/></td>
+      </tr>
+      <tr>
+        <td>Forever<br/><small>by Bassvictim</small></td>
+        <td>the theory of you<br/><small>by ivri</small></td>
+        <td>SOS<br/><small>by SZA</small></td>
+        <td>ᲘᲘ<br/><small>by Cyst</small></td>
       </tr>
     </tbody>
   </table>
